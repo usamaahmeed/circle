@@ -1,0 +1,55 @@
+{
+  "app_name": "Circle app",
+  "Login": "Login",
+  "Sign Up": "Sign Up",
+  "Resend code": "Resend code",
+  "Welcome": "Welcome..!",
+  "Welcome message": "Log in to the application and order now..",
+  "otp text": "Please enter the verification code sent to your mobile number",
+  "Phone": "Mobile number",
+  "Confirm": "Confirm",
+  "create account": "Create an account",
+  "first name": "First name",
+  "last name": "Last name",
+  "login err": "Invalid phone number 01 xxx xxx xxx",
+  "invite": "Invited by user?",
+  "hello": "Hello",
+  "search": "A specific product..?",
+  "Sections": "Sections",
+  "View all": "View all",
+  "Latest Products": "Latest Products",
+  "More": "More",
+  "Orders": "Orders",
+  "Favorites": "Favorites",
+  "Points": "Points",
+  "Settings": "Settings",
+  "Edit account": "Edit account",
+  "Language": "Language",
+  "Contact us": "Contact us",
+  "About the app": "About the app",
+  "App Rating": "App Rating",
+  "Delete account": "Delete account",
+  "Name": "Name",
+  "Email": "Email",
+  "Message Title": "Message Title",
+  "Message": "Message",
+  "About us": "About us",
+  "massa": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "send": "Send",
+  "Categories": "Categories",
+  "Products": "Products",
+  "Product Details": "Product Details",
+  "Details": "Source of vitamins and minerals: Shrimp contains a variety of vitamins and minerals, such as vitamin B12, niacin, phosphorus, selenium, and iodine.\nLow in calories and fat: Despite its delicious taste, shrimp is often low in calories and fat, making it a good choice for people who are concerned about their weight.\nRich in Omega-3: Shrimp contains omega-3 fatty acids, which are beneficial for heart and blood vessel health, and can help lower harmful cholesterol levels.",
+  "Price": "Price",
+  "EGP": "EGP"
+
+
+
+
+
+
+
+
+
+
+}
